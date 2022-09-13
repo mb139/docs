@@ -7,11 +7,11 @@ redirect_from:
 versions:
   fpt: '*'
   ghec: '*'
-  ghae: '*'
-  ghes: '*'
+
+ghes: '*'
 children:
-  - /exploring-integrations
-  - /purchasing-and-installing-apps-in-github-marketplace
+
+- /purchasing-and-installing-apps-in-github-marketplace
 shortTitle: Customize your workflow
 ---
 
